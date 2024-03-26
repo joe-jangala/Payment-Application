@@ -2,7 +2,7 @@
 
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://joejangala12:Ramunava@cluster0.ekrnn9q.mongodb.net/paytm")
+mongoose.connect("Data_Base_Connection_String_Here");
 
 const userSchema =  mongoose.Schema({
     firstName:String,
