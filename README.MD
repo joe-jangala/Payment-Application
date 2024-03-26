@@ -1,5 +1,5 @@
-## FULL STACK PAYMENT APPLICATION USING MERN STACK
-Home Page
+# FULL STACK PAYMENT APPLICATION USING MongoDB, Express, React and Node.js
+## Home Page
 ![homepage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/Home.png)
 Signin Page
 ![Signinpage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signin.png)
