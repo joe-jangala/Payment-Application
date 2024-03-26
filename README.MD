@@ -1,17 +1,17 @@
 # FULL STACK PAYMENT APPLICATION USING MongoDB, Express, React and Node.js
 ## Home Page
 ![homepage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/Home.png)
-Signin Page
+## Signin Page
 ![Signinpage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signin.png)
-Signup Page
+## Signup Page
 ![Signuppage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signin.png)
-Dashboard
+## Dashboard
 ![Dashboard](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/dashboard.png)
-Send Money
+## Send Money
 ![Send](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/send.png)
-Updated Dash
+## Updated Dashboard
 ![UpdatedDash](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/updateddash.png)
-Database
+## Database
 ![Database](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/DB.png)
 ![Database2](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/DB.png)
 
