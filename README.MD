@@ -1,4 +1,4 @@
-# FULL STACK PAYMENT APPLICATION USING MongoDB, Express, React and Node.js
+# PAYMENT APPLICATION Using MongoDB, Express, React and Node.js
 ## Home Page
 It is the starting page of the application, by clicking sigin button it takes to the signin page.
 ![homepage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/Home.png)
