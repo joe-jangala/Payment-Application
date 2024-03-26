@@ -1,4 +1,4 @@
-# FULL STACK PAYMENT APPLICATION USING MERN STACK
+## FULL STACK PAYMENT APPLICATION USING MERN STACK
 Home Page
 ![homepage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/Home.png)
 Signin Page
