@@ -10,7 +10,7 @@ It is the starting page of the application, by clicking sigin button it takes to
 - User has to provide First Name, Last Name , Email and Password to create a account.
 - Input Validation is done through zod library.
 - After successful validation user gets a json web token and stored in applications local storage.
-![Signuppage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signin.png)
+![Signuppage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signup.png)
 ## Dashboard
 - After Successful signin/signup user is directed to the dashboard page.
 - During the account creation user is assigned some balance as we not deal with Bank APIs in this project.
