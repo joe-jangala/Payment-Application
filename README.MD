@@ -4,7 +4,7 @@ Home Page
 Signin Page
 ![Signinpage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signin.png)
 Signup Page
-![Signuppage)(https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signin.png)
+![Signuppage](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/signin.png)
 Dashboard
 ![Dashboard](https://github.com/joe-jangala/Payment-Application/blob/main/Output%20Images/dashboard.png)
 Send Money
